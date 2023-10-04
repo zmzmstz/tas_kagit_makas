@@ -1,16 +1,11 @@
-# flutter_application_1
+# tas_kagit_makas
 
-A new Flutter project.
+This is a little flutter project by zmzmstz.
 
-## Getting Started
+## How to use?
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Logic of the project process like this steps:
+-You press your choice
+-Phone choses its choice
+-App shows the phone's choice
+-App gives the point according to the choices
